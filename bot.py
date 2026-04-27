@@ -3,8 +3,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ---------- CONFIG ----------
-BOT_TOKEN = "8411767969:AAHGoJ59mabo9WsHHqlg3J2JFOV3YJGdVbg"
-ADMIN_ID = 7192516189  # Your Telegram ID
+BOT_TOKEN = "8776136132:AAH6g4433xIXO9IhTCtfqPWb2UOik6t5MQ8"
+ADMIN_ID = 7857797639  # Your Telegram ID
 CHANNEL_LINK = "https://t.me/+ndCYGs-yIuQ1M2U1"
 
 # Enable logging
@@ -23,7 +23,7 @@ async def unauthorized(update: Update) -> None:
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.effective_user
     welcome_msg = (
-        f"⚡ 𝑽𝑵 𝒙 𝑴𝑨𝑮𝑮𝑰 ⚡\n\n"
+        f"⚡ 𝑽𝑵 𝒙 𝑴𝑨𝑮𝑮𝑰 𝐌𝐈𝐀 𝐊𝐇𝐀𝐋𝐈𝐅𝐀 𝐃𝐃𝐎𝐒 ⚡\n\n"
         f"🔥 Welcome {user.first_name},\n"
         f"💣 Layer‑4 Stress Testing Power\n\n"
         f"👑 Owner: https://t.me/+ndCYGs-yIuQ1M2U1\n\n"
