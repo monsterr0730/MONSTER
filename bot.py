@@ -26,7 +26,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         f"⚡ 𝑽𝑵 𝒙 𝑴𝑨𝑮𝑮𝑰 𝐌𝐈𝐀 𝐊𝐇𝐀𝐋𝐈𝐅𝐀 𝐃𝐃𝐎𝐒 ⚡\n\n"
         f"🔥 Welcome {user.first_name},\n"
         f"💣 Layer‑4 Stress Testing Power\n\n"
-        f"👑 Owner: https://t.me/+ndCYGs-yIuQ1M2U1\n\n"
+        f"👑 Owner: https://t.me/+YerutxCoLJE1OWI1\n\n"
         f"✅ <b>Public Commands:</b>\n"
         f"• /attack &lt;IP&gt; &lt;PORT&gt; &lt;TIME&gt; – Launch attack (max 240s)\n"
         f"• /botstatus – Check bot mode\n"
