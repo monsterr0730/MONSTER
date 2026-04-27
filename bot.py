@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 # ---------- CONFIG ----------
 BOT_TOKEN = "8776136132:AAH6g4433xIXO9IhTCtfqPWb2UOik6t5MQ8"
 ADMIN_ID = 7857797639  # Your Telegram ID
-CHANNEL_LINK = "https://t.me/+ndCYGs-yIuQ1M2U1"
+CHANNEL_LINK = "https://t.me/+YerutxCoLJE1OWI1"
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
