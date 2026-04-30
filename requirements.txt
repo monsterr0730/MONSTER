@@ -3,5 +3,9 @@ pymongo==4.6.1
 python-dotenv==1.0.0
 requests==2.31.0
 asyncio==3.4.3
-curl_cffi python-telegram-bot
-
+python-telegram-bot==20.7
+curl_cffi==0.5.10
+cloudscraper==1.2.71
+requests==2.31.0
+certifi==2024.2.2
+urllib3==2.2.1
